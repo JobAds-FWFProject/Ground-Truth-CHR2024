@@ -5,7 +5,7 @@ Each job ad is labeled as one of the following categories:
 - job_offer for job offers,
 - job_search for job searches,
 - service_offer for somebody offering services,
-- vermittlung for job ads of
+- vermittlung for job ads from mediation offices,
 - heading for a heading indicating that a job ads sections starts,
 - indicators for more general headings indicating that an ads section starts.
 
