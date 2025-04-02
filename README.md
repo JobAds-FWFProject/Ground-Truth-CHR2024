@@ -9,6 +9,6 @@ Each job ad is labeled as one of the following categories:
 - heading for a heading indicating that a job ads sections starts,
 - indicators for more general headings indicating that an ads section starts.
 
-Ground truth was created as part of the JobAds (FWF P35783) and published as part of the conference paper _Who Advertises in Newspapers? Data Criticism in Mining Historical Job Ads_ submitted to the CHR2024 conference. We thank Austrian National Library for providing data from the ANNO corpus.
+Ground truth was created as part of the JobAds (FWF P35783) and published as part of the conference paper _Who Advertises in Newspapers? Data Criticism in Mining Historical Job Ads_ presented at the CHR2024 conference. We thank Austrian National Library for providing data from the ANNO corpus.
 
 The conference paper is available from https://ceur-ws.org/Vol-3834/paper12.pdf.
