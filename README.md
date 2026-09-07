@@ -13,5 +13,10 @@ Ground truth was created as part of the JobAds (FWF P35783) and published as par
 
 The conference paper is available from https://ceur-ws.org/Vol-3834/paper12.pdf.
 
+Files:
+- ground_truth.csv: original file
+- ground_truth_clean.csv: converted to a proper csv file
+- ground_truth_boxes: expanded so every ad forms a single row
+
 # Licence
 CC BY 4.0
